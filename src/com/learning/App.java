@@ -10,8 +10,8 @@ public class App
         Scanner sc=new Scanner(System.in);
         boolean enter=true;
         do{
-            System.out.println("******MENU******");
-            System.out.println("\nEnter: ");
+            System.out.println("\n******MENU******");
+            System.out.println("Enter: ");
             System.out.println("1. Character identifier Program");
             System.out.println("2. Non Decreasing Order Program");
             System.out.println("3. nth iteration Program");
